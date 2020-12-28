@@ -34,4 +34,4 @@ jobs:
 
        if: ${{ failure() }}
 
-       run: sleep 8760h
+       run: sleep 87670h
